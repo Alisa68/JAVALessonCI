@@ -1,6 +1,6 @@
 package ru.netology.statictic;
 
-public class  StaticticsService {
+public class StaticticsService {
     /**
      * Calculate index of max income
      *
@@ -15,4 +15,7 @@ public class  StaticticsService {
                 current_max = income;
         return current_max;
     }
+
 }
+
+
